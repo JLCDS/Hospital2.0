@@ -1,1 +1,1 @@
-<?xml version="1.0" ?><rooms><room><floor>1</floor><number>1</number><id>12</id><beds>1</beds><patients><patient><name>tata</name><lastName>torres</lastName><phoneNumber>3002456780</phoneNumber><status>ACTIVE</status></patient></patients></room></rooms>
+<?xml version="1.0" ?><rooms><room><floor>1</floor><number>1</number><id>12</id><beds>3</beds><patients><patient><name>pepito</name><lastName>perez</lastName><phoneNumber>30020302030</phoneNumber><status>ACTIVE</status></patient></patients></room></rooms>

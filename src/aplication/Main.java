@@ -204,7 +204,7 @@ public class Main {
 
 
     private static void showPatientsByRoom(Scanner scanner) {
-        System.out.println("Ingrese el numero de habitación:");
+        System.out.println("Ingrese el numero de habitacion:");
         int roomNumber = scanner.nextInt();
         scanner.nextLine();
         boolean roomFound = false;
